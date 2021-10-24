@@ -1,0 +1,9 @@
+
+
+Dear ${PERSON_NAME},
+
+This is a test message.
+Here is the OTP: ${otp}
+Have a great day!
+
+Yours Truly
